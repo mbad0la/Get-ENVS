@@ -3,6 +3,7 @@
 apt-get update
 apt-get install -y apache2
 apt-get install -y openjdk-7-jdk
+apt-get install -y maven
 echo "Starting Zookeeper Setup ..."
 wget -q http://a.mbbsindia.com/zookeeper/stable/zookeeper-3.4.8.tar.gz
 tar -xvf zookeeper-3.4.8.tar.gz

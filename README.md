@@ -14,3 +14,16 @@ Say goodbye to "works on my machine" bugs!
 * Install vagrant-hostmanager plugin : `vagrant plugin install vagrant-hostmanager`
 
 ### Available Environments
+* **CentOS 7 Environment**
+* **Ubuntu 14.04 Enviroment**
+* **LAMP Stack Enviroment**
+  * Linux(Ubuntu 14.04)
+  * Apache HTTP Server
+  * MySQL
+  * PHP
+* **Apache Storm Enviroment (dev)**
+  * Apache HTTP Server
+  * OpenJDK-7
+  * Maven
+  * ZooKeeper
+  * Storm
